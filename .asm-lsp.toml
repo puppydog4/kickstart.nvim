@@ -1,0 +1,3 @@
+[default_config]
+assembler = "NASM"
+instruction_set = "x86_64"
